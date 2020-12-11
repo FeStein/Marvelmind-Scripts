@@ -1,0 +1,6 @@
+local/
+
+#some juypter notebook stuff
+.ipynb_checkpoints/
+*/.ipynb_checkpoints
+
