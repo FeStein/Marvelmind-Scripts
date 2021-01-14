@@ -10,11 +10,12 @@ of Plots is done in German because we keep our lab report in German. However, i
 try to keep variables and comments in English so you should be able to follow
 along and use the scripts for yourself without much effort.
 
-Feel free to send Pull requests and add your own scripts to this repo. Like this
-we can make a collection for Marvelmind specific scripts since it is hard to
-find informations through thousands of mails and unlabeled forum entries.
+Feel free to send Pull requests or fork the repo and add your own scripts to
+this repo. Like this we can make a collection for Marvelmind specific scripts
+since it is hard to find informations through thousands of mails and unlabeled
+forum entries.
 
 ## Contents
 
-* **log_plots** - This folder contains some scripts which can parse and plot the
+* **log_plots/** - This folder contains some scripts which can parse and plot the
     positions logs written by the dashboard (csv)
